@@ -1,0 +1,3 @@
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/SportStore/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.csproj.CoreCompileInputs.cache
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/SportStore/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.AssemblyInfoInputs.cache
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/SportStore/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.AssemblyInfo.cs
